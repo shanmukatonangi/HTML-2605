@@ -1,0 +1,71 @@
+/* h2{
+
+color:green;
+
+
+
+
+} */
+
+
+/* #praveen{
+    color:red
+}
+
+.tenth{
+
+    color:green;
+    font-size:100px;
+
+}
+
+h2{
+    color:purple;
+} */
+
+/* #h1{
+    font-size:100px;
+}
+
+#div{
+    background-color:yellow;
+    height:300px;
+    width:300px;
+} */
+
+/* #div2{
+    background-color:cyan;
+   height:100%;
+   width:100%;
+} */
+
+/* #div2{
+    background-color:cyan;
+   height:2em;
+   width:100px;
+} */
+
+
+html{
+    font-size:16px;
+}
+
+.parent{
+    background-color:rgb(52, 17, 223);
+    font-size:20px;
+  
+}
+
+.child{
+    font-size:3em;
+}
+
+
+.child{
+    font-size:3rem;
+}
+
+/* 3rem=3x html=3x16px=48px */
+
+
+
