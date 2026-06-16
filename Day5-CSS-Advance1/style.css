@@ -1,0 +1,66 @@
+
+/* div{
+    height: 400px;
+    width: 400px;
+    margin:20px;
+    background-color: blue;
+    display: inline;
+} */
+    /* #div{
+        height: 500px;
+        width: 500px;
+        background-color: red;
+        position: absolute;
+        
+    }
+
+
+    #div2{
+         height: 400px;
+        width: 400px;
+        background-color: blue;
+        position: relative;
+        right:50px;
+
+    } */
+
+
+
+    #parent{
+        height: 800px;
+        width:400px;
+        background-color: red;
+        /* position: relative; */
+        left:200px;
+    }
+
+    #child{
+        height: 800px;
+        width: 200px;
+        background-color: blue;
+        /* position:absolute; */
+        right: 20px;
+        bottom:20px;
+    }
+
+    #shan{
+        height: 200px;
+        width: 200px;
+        border-radius:50%;
+        background-color: green;
+        position:fixed;
+        /* right:10px;
+        bottom:10px; */
+        top:10px;
+        left:600px;
+    }
+
+    #yellow{
+         height: 200px;
+        width: 200px;
+        border-radius:50%;
+        background-color: rgb(235, 251, 20);
+        position:sticky;
+        top:10px;
+
+    }
